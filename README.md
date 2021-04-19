@@ -1,0 +1,2 @@
+# StatisticalResearch_ComparingMultipleImputationAndCompleteCaseAnalysis
+Statistical Research: Evaluating the Performance of Multiple Imputation by Chained Equations versus Complete Case Analysis through Simulations
